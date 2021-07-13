@@ -4,5 +4,6 @@ RENCANA MAGANG
 - Belajar Javascript
   *ES6
   *Framwork Javascript
+- Struktur Data  
 - Belajar Git
 - Memmbuat video
