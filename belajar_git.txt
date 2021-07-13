@@ -1,4 +1,5 @@
 belajar_magang
 - konsisten untuk belajar git
 - membuat video untuk magang
-belajar dan belajar
+- belajar dan belajar
+- magang selama 6 bulan
