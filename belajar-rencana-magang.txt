@@ -2,8 +2,11 @@ RENCANA MAGANG
 
 - Quality Assurance
 - Belajar Javascript
+  ^Angular
+  ^React
   *ES6
   *Framwork Javascript
+  ^Laravel
 - Struktur Data  
 - Belajar Git
 - Memmbuat video
