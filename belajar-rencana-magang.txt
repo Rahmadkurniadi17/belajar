@@ -1,0 +1,8 @@
+RENCANA MAGANG
+
+- Quality Assurance
+- Belajar Javascript
+  *ES6
+  *Framwork Javascript
+- Belajar Git
+- Memmbuat video
