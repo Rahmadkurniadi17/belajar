@@ -5,7 +5,7 @@ RENCANA MAGANG
   *ES6
   *Framwork Javascript
   ^ Vue
-  
+  ^ React
 - Struktur Data  
 - Belajar Git
 ^ gitlab
