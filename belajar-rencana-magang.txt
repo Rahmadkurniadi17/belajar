@@ -6,7 +6,10 @@ RENCANA MAGANG
   ^React
   *ES6
   *Framwork Javascript
-  ^Laravel
+  ^ Vue
+  ^ React
 - Struktur Data  
 - Belajar Git
+^ gitlab
 - Memmbuat video
+- Python
